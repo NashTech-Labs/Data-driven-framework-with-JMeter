@@ -1,20 +1,13 @@
 # Data driven testing with Jmeter
-
-
 # Introduction
 This template will help you to implement a data driven testing framework. The most famous tool for performance testing are Jmeter & Gatling and we have used Jmeter in this template. So the template will basically help you to have an integrated data driven testing framework using Jmeter.
-
 # What is data driven testing framework
 A data driven testing framework is a technique in which you keep input test data separate from the actual test script.This DDT framework is totally dependent on the input test data. There are majorly two components in the data-driven testing framework. First is the test script and second test data.
 The test data set is created in external sources such as an excel file, csv file, xml file, or any database (In this template we are using csv file) . After that we connect the test script with test data to retrieve multiple sets of data to perform the application under test.
-
-
 # Technologies Used
 Automation tool - Apache Jmeter
 
 JAVA is prerequisite for Apache Jmeter so make sure that java should be installed.
-
-
 # Steps for execution
 Clone the repository on your local system.
 
